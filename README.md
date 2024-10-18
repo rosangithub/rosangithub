@@ -1,26 +1,11 @@
-## Hi there 👋
 
-<!--
-**rosangithub/rosangithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Rosan Shrestha</h1>
 <h3 align="center">learning python and want to become a cyber Security expert</h3>
 <img align="right" alt="coding " width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw3zNeg07A98KM81fBeh_nmD&ust=1729322294063000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMD3ie2xl4kDFQAAAAAdAAAAABAK>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosangithub&label=Profile%20views&color=0e75b6&style=flat" alt="rosangithub" /> </p>
 
-- 💬 Ask me about **python,c**
+- 💬 Ask me about **python, c**
 
 - 📫 How to reach me **rosanshrestha101@gmail.com**
 

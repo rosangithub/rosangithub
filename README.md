@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rosan Shrestha</h1>
 <h3 align="center">learning python and want to become a cyber Security expert</h3>
-<img align="right" alt="coding " width="400" src=["https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw3zNeg07A98KM81fBeh_nmD&ust=1729322294063000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMD3ie2xl4kDFQAAAAAdAAAAABAK](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw1eiRgSz2eI4VoF6ZaBUBef&ust=1729323326121000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDAvMq1l4kDFQAAAAAdAAAAABAE)>
+<img align="right" alt="coding " width="400" src=https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosangithub&label=Profile%20views&color=0e75b6&style=flat" alt="rosangithub" /> </p>
 

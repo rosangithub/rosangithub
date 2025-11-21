@@ -1,8 +1,3 @@
-<!-- Cybersecurity Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/8yZ8FzP.jpeg" alt="Cybersecurity Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Rosan Shrestha</h1>
 <h3 align="center">Aspiring Cybersecurity & SOC Analyst | Networking & Linux Enthusiast | Python & Django Learner</h3>
 

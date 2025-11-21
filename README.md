@@ -1,7 +1,12 @@
+<!-- Cybersecurity Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/8yZ8FzP.jpeg" alt="Cybersecurity Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rosan Shrestha</h1>
 <h3 align="center">Aspiring Cybersecurity & SOC Analyst | Networking & Linux Enthusiast | Python & Django Learner</h3>
 
-<img align="right" alt="coding" width="380" src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif">
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rosangithub&label=Profile%20Views&color=0e75b6&style=flat" alt="rosangithub" />
@@ -14,10 +19,9 @@
 - 🐍 Learning **Python, Django & Networking**  
 - 🧑‍💻 Comfortable with **Linux, Kali Linux, C, Python**  
 - 💬 Ask me about **Python, C, Networking, Kali Linux**  
-- 📫 Reach me at:
-- Instagram :**rosanshrestha101@gmail.com**  
-- 🌐 LinkedIn: **www.linkedin.com/in/rosanshrestha**
-- Facebook:**https://www.facebook.com/rosan.shrestha.77920**
+- 📫 Reach me at: **rosanshrestha101@gmail.com**  
+- 🌐 LinkedIn: **https://www.linkedin.com/in/rosanshrestha**  
+- 👍 Facebook: **https://www.facebook.com/rosan.shrestha.77920**
 
 ---
 
@@ -30,10 +34,10 @@
 <a href="https://www.linkedin.com/in/rosanshrestha" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://www.facebook.com/rosan.shrestha.77920" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
 
+<a href="https://www.facebook.com/rosan.shrestha.77920" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
@@ -77,4 +81,4 @@
 
 ---
 
-⭐ **Feel free to explore my repositories and connect with me!**  
+⭐ **Feel free to explore my repositories and connect with me!**

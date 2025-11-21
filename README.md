@@ -12,10 +12,12 @@
 ### 🚀 About Me  
 - 🔐 Aspiring **Cybersecurity & SOC Analyst**  
 - 🐍 Learning **Python, Django & Networking**  
-- 🧑‍💻 Comfortable with **Linux, Kali Linux, C, Python, SQL**  
+- 🧑‍💻 Comfortable with **Linux, Kali Linux, C, Python**  
 - 💬 Ask me about **Python, C, Networking, Kali Linux**  
-- 📫 Reach me at: **rosanshrestha101@gmail.com**  
-- 🌐 LinkedIn: **www.linkedin.com/in/rosanshrestha**  
+- 📫 Reach me at:
+- Instagram :**rosanshrestha101@gmail.com**  
+- 🌐 LinkedIn: **www.linkedin.com/in/rosanshrestha**
+- Facebook:**https://www.facebook.com/rosan.shrestha.77920**
 
 ---
 
@@ -28,6 +30,10 @@
 <a href="https://www.linkedin.com/in/rosanshrestha" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
+<a href="https://www.facebook.com/rosan.shrestha.77920" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
 </p>
 
 ---
